@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+  <head lang = "en">
+    <meta charset = "utf-8" />
+    <meta content = "width=device-width, initial-scale=1.0" name = "viewport" />
+    <meta content = "" name = "description" />
+    <meta content = "" name = "author" />
+    <link href = "/stylesheets/bootstrap.min.css" rel = "stylesheet" />
+    <link href = "/stylesheets/bootstrap-responsive.min.css" rel = "stylesheet" />
+    <link href = "/stylesheets/style.css" rel = "stylesheet" />
+    <link href = "/stylesheets/fonts.css" rel = "stylesheet" />
+    <link href = "/stylesheets/auth-buttons.css" rel = "stylesheet" />
+   <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <style type='text/css'>
+      /*<![CDATA[*/
+        body {
+          padding-top: 60px;
+          padding-bottom: 40px;
+        }
+      /*]]>*/
+    </style>
+    <title> codesake.com - your collaborative code review platform</title>
+    <!-- TODO: Google analytics for blog.codesake.com -->
+  </head>
+  <body>
+    <div class='navbar navbar-fixed-top'>
+      <div class='navbar-inner'>
+        <div class='container'>
+          <a class='btn btn-navbar' data-target='.nav-collapse' data-toggle='collapse'>
+            <span class='icon-bar'></span>
+            <span class='icon-bar'></span>
+            <span class='icon-bar'>
+              <a class='brand' href='http://codesake.com'>codesake</a>
+            </span>
+          </a>
+          <div class='nav-collapse collapse'>
+            <ul class='nav'>
+              <li class='active'>
+                <a href='/'>Home</a>
+              </li>
+              <li>
+                <a href='http://codesake.com/contacts'>Contacts</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      </div>
+      <div class="container">
+        {{ content }}
+        
+   <footer>
+        <p>&copy; codesake.com 2012</p>
+        </footer>
+    </div>
+    <!-- /container -->
+    <script src='/javascripts/jquery.js'></script>
+    <script src='/javascripts/jquery-validate.js'></script>
+    <script src='/javascripts/bootstrap.min.js'></script>
+    <script src='/javascripts/application.js'></script>
+  </body>
+</html>

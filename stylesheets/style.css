@@ -1,0 +1,69 @@
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+  background: url(/images/noisy_grid.png) repeat;
+  -webkit-font-smoothing: antialiased;
+  width: 80%;
+}
+
+a.index-title {
+  font-family: "LeagueGothicRegular", "Graublau Web", sans-serif;
+  font-size: 1.8em;
+}
+
+span.index-date {
+  font-family: "Delicious", "Gill Sans", "Lucida Sans", "Arial New", sans-serif;
+  font-size: 1.3em;
+  color: #666;
+}
+
+a {
+  color: #741012;
+}
+
+ul.listing {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul.listing li {
+  padding-bottom: 2px;
+  /*border-bottom: 1px solid #eee;*/
+}
+
+div.message.error {
+  color: red;
+}
+
+ul.social {
+  list-style: none;
+}
+
+ul.social li {
+  padding-bottom: 20px;
+}
+
+ul.social img {
+  padding-right: 20px;
+}
+
+textarea.code_area {
+  width: 80%;
+  height: 400px;
+  resize: none;
+}
+
+h1,h2,h3,h4 {
+  font-family: "LeagueGothicRegular", "Graublau Web", sans-serif;
+  text-transform: uppercase;
+}
+
+.navbar a {
+  color: #780f14;
+}
+
+p.mkt {
+  text-align: justify;
+  line-height: 1.5em;
+}
