@@ -6,6 +6,12 @@ body {
   width: 80%;
 }
 
+
+img.left {
+  float:left;
+  margin-right: 10px;
+}
+
 a.index-title {
   font-family: "LeagueGothicRegular", "Graublau Web", sans-serif;
   font-size: 1.8em;
