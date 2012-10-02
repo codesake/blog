@@ -15,7 +15,7 @@ future: true
 lsi: false
 pygments: false
 markdown: kramdown
-permalink: pretty
+permalink: none
 
 
 kramdown:
