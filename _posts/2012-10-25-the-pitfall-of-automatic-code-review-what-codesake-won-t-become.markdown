@@ -21,7 +21,7 @@ good it can be, is the goal you have to reach.
 
 Application security is a process that engages your developers, project managers,
 software architect and even marketing people for 
-[the code they outsource to web agencies](/blog/are-web-agencies-the-new-security-threats-in-2013/)
+[the code they outsource to web agencies](http://armoredcode.com/blog/are-web-agencies-the-new-security-threats-in-2013/)
 since the very beginning of an web project.
 
 Let both non technical people and non security people aware about your risk is the master key to the success.
