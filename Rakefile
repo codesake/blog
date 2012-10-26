@@ -11,6 +11,7 @@ rsync_delete   = true
 deploy_default = "rsync"
 public_dir      = "_site"    # compiled site directory
 
+desc "Create a new post"
 task :np do
   OptionParser.new.parse!
   ARGV.shift
