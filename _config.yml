@@ -1,19 +1,20 @@
-title:            Site Title
-tagline:          A short tagline
-description:      Describe your website.
+title:            Dawn
+tagline:          The security source code scanner for ruby applications
+description:      codesake-dawn is a source code analyzer for web applications written in Ruby.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+# url:              http://localhost:4000
+url:              http://dawn.codesake.com
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  name:           Paolo Perego
+  avatar:         myself.png
+  bio:            "Application Security Specialists, 37 yo from Milan, Italy. Proud father and Taekwon-do ITF athlete"
+  email:          paolo@codesake.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter:        codesake 
+  facebook:       codesake.com
+  github:         codesake
   linkedin:       
   instagram:      
   lastfm:         
@@ -22,7 +23,7 @@ owner:
   google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics:   UA-22125982-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:        
@@ -30,24 +31,22 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
+  # - title: About
+    # url: /about/
   - title: Articles
     url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: armoredcode.com
+    url: http://armoredcode.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Rome
 future:      true
 pygments:    true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+permalink:   /blog/:title
 
 kramdown:
   auto_ids: true

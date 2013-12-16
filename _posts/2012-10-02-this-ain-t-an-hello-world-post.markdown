@@ -2,7 +2,8 @@
 layout: post
 published: true
 title: This ain't an hello world post
-tags: startup simple-life
+tags: [startup, simple-life]
+category: articles
 ---
 
 <img src="/images/ny.jpg" class="left img-polaroid"/>

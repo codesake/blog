@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: 'December updates: before maya blackout'
+category: articles
 ---
 
 It was two months ago since my [latest post](http://blog.codesake.com/the-pitfall-of-automatic-code-review-what-codesake-won-t-become.html)

@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: "The pitfall of automatic code review: what codesake won't become"
+category: articles
 ---
 
 I write this post as a internal meme to draw the first roadmap for
