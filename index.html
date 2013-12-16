@@ -1,0 +1,27 @@
+---
+layout: default
+title: Codesake.com blog
+---
+<div class='hero-unit'>
+  <h1>The story so far...</h1>
+  <p>codesake is a collaborative platform that takes care about your code. Connect your github account and bring your code to the next level.</p>
+  <p>With codesake you will enjoy the benefits of automagically generated rspec tests, cucumber scenarios and security checks.</p>
+</div>
+
+<hr />
+<h2>Inbox</h2>
+<section class="content">
+  <div class="row">
+    <div class="span8">
+      <ul class="listing">
+        {% for post in site.posts %}
+        <li class="row">
+          
+           <a class="index-title span6" href="{{ post.url }}">{{ post.title }}</a> <span class="index-date span1">{{ post.date | date: "%B %e, %Y" }}</span>
+         
+         </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>   

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 _site
 .DS_Store
 *.sublime-project
@@ -6,3 +7,7 @@ codekit-config.json
 node_modules
 _asset_bundler_cache
 Gemfile.lock
+=======
+.DS_Store
+_site
+>>>>>>> c6f170b8a02c744f60fd94b462c6360789a44e62
