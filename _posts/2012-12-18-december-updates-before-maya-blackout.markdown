@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: 'December updates: before maya blackout'
 category: articles
 ---

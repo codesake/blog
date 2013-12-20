@@ -1,29 +1,41 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Theme
-tagline: Minimal Mistakes, a Jekyll Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 9-9-2013
+title: About codesake-dawn security scanner
+tagline: 
+tags: [about, codesake-dawn, application security, get it]
+modified: 12-19-2013
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: 
+  credit: 
+  creditlink: 
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+codesake-dawn is a source code review tool crafted to detect security issues in
+ruby written code. The main usage is to apply codesake-dawn to web
+applications, it supports [Sinatra](http://www.sinatrarb.com),
+[Padrino](http://www.padrinorb.com) and of course [Ruby on Rails](http://rubyonrails.org) frameworks. 
 
-## Minimal Mistakes is all about:
+## Armed monkeys reported this project status
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+[![Gem Version](https://badge.fury.io/rb/codesake-dawn.png)](http://badge.fury.io/rb/codesake-dawn)
+[![Build Status](https://travis-ci.org/codesake/codesake-dawn.png?branch=master)](https://travis-ci.org/codesake/codesake-dawn)
+[![Dependency Status](https://gemnasium.com/codesake/codesake-dawn.png)](https://gemnasium.com/codesake/codesake-dawn)
+[![Coverage Status](https://coveralls.io/repos/codesake/codesake-dawn/badge.png)](https://coveralls.io/r/codesake/codesake-dawn)
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+## Stay in touch
 
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
+The best way to get in touch with the people behind codesake-dawn is 
+[tweeting us a message](https://twitter.com/dawnscanner) (of course following
+us is a great idea) or filing an [issue on github](https://github.com/codesake/codesake-dawn/issues).
 
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
+If you love more the old fashioned email, [drop me a line](mailto:paolo@codesake.com)
+
+## Support the project
+
+If your organization uses codesake-dawn and wants to tell the world, we love
+it. Simply open an [issue on github](https://github.com/codesake/codesake-dawn/issues) with the
+success-story label telling the world how codesake-dawn helped your
+organization.
+
+You and your logo will deserve a place [on the success stories page](/success-stories)

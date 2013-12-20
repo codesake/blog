@@ -1,5 +1,5 @@
 --- 
-published: true
+published: false
 layout: post
 title: "The pitfall of automatic code review: what codesake won't become"
 category: articles
