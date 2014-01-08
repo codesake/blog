@@ -2,8 +2,8 @@ title:            Dawn - security ruby code scanner
 tagline:          The security source code scanner for ruby applications
 description:      codesake-dawn is a source code analyzer for web applications written in Ruby.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
-# url:              http://dawn.codesake.com
+# url:              http://localhost:4000
+url:              http://dawn.codesake.com
 
 # Owner/author information
 owner:
