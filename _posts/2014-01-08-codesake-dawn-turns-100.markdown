@@ -5,7 +5,7 @@ title: Codesake Dawn turns 100
 categories: article
 tags: dawnscanner knowledgebase CVE-2011-2705 100
 image:
-  cover: b-cake.jpg
+  feature: b-cake.jpg
   credit: Will Clayton
   creditlink: http://www.flickr.com/photos/spool32/
 ---

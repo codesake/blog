@@ -40,6 +40,8 @@ links:
     url: /articles/
   - title: Success stories
     url: /success-stories
+  - title: Knowledge base
+    url: /knowledge-base
   - title: armoredcode.com
     url: http://armoredcode.com
     external: true

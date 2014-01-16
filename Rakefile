@@ -30,7 +30,7 @@ task :np do
   	puts "[WARN] File exists - skipping create"
   else
     File.open(path, "w") do |file|
-      file.puts YAML.dump({'layout' => 'post', 'published' => false, 'title' => title, 'categories'=>'article', 'tags'=>nil, 'image'=>{'cover'=>nil}})
+      file.puts YAML.dump({'layout' => 'post', 'published' => false, 'title' => title, 'categories'=>'article', 'tags'=>nil, 'image'=>{'feature'=>nil, 'credit'=>nil, 'creditlink'=>nil}})
       file.puts "---"
     end
   end
