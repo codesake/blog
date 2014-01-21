@@ -1,18 +1,7 @@
----
-layout: page
-permalink: /knowledge-base/index.html
-title: Codesake::Dawn Knowledge base
-tagline: 
-tags: [about, codesake-dawn, application security, get it]
-modified: 01-16-2014
-image:
-  feature: 
-  credit: 
-  creditlink: 
----
+# Codesake::Dawn Knowledge base
 
-The knowledge base library for Codesake::Dawn version 1.0.0.rc2 contains 142 security checks.
-
+The knowledge base library for Codesake::Dawn version 1.0.0 contains 142 security checks.
+---
 * Not revised code: Analyzing comments, it seems your code is waiting from some review from you. Please consider take action before putting it in production.
 This check will analyze the source code looking for the following patterns: XXX, TO_CHECK, CHECKME, CHECK and FIXME
 * Owasp Ror Cheatsheet: This Cheatsheet intends to provide quick basic Ruby on Rails security tips for developers. It complements, augments or emphasizes points brought up in the rails security guide from rails core.  The Rails framework abstracts developers from quite a bit of tedious work and provides the means to accomplish complex tasks quickly and with ease. New developers, those unfamiliar with the inner-workings of Rails, likely need a basic set of guidelines to secure fundamental aspects of their application. The intended purpose of this doc is to be that guide.
@@ -161,4 +150,4 @@ XML documents with carefully crafted entity expansion strings which can cause th
 * [CVE-2013-7086](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-7086): The message function in lib/webbynode/notify.rb in the Webbynode gem 1.0.5.3 and earlier for Ruby allows context-dependent attackers to execute arbitrary commands via shell metacharacters in a growlnotify message.
 
 
-_Last updated: Thu 16 Jan 08:38:28 CET 2014_
+_Last updated: Tue 21 Jan 15:45:13 CET 2014_
