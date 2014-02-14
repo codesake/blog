@@ -1,7 +1,19 @@
-# Codesake::Dawn Knowledge base
+---
+layout: page
+permalink: /knowledge-base/index.html
+title: Codesake::Dawn Knowledge base
+tagline: People, startups or companies using codesake dawn and having fun!
+tags: [about, codesake-dawn, application security, get it]
+modified: 01-21-2014
+image:
+  feature: 
+  credit: 
+  creditlink: 
+---
 
 The knowledge base library for Codesake::Dawn version 1.0.0 contains 142 security checks.
----
+
+
 * Not revised code: Analyzing comments, it seems your code is waiting from some review from you. Please consider take action before putting it in production.
 This check will analyze the source code looking for the following patterns: XXX, TO_CHECK, CHECKME, CHECK and FIXME
 * Owasp Ror Cheatsheet: This Cheatsheet intends to provide quick basic Ruby on Rails security tips for developers. It complements, augments or emphasizes points brought up in the rails security guide from rails core.  The Rails framework abstracts developers from quite a bit of tedious work and provides the means to accomplish complex tasks quickly and with ease. New developers, those unfamiliar with the inner-workings of Rails, likely need a basic set of guidelines to secure fundamental aspects of their application. The intended purpose of this doc is to be that guide.

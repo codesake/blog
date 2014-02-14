@@ -35,8 +35,10 @@ bing_verify:
 links:
   - title: About
     url: /about/
-  - title: Get It!
-    url:  /get-it
+  - title: Installation
+    url:  /install/
+  - title: Usage howto
+    url:  /using/
   - title: Articles
     url: /articles/
   - title: Success stories
