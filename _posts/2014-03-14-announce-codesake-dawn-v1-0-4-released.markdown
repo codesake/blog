@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: '[ANNOUNCE]: Codesake::Dawn v1.0.4 released'
 categories: article
 tags: announce 1.0.4 release
